@@ -1,0 +1,164 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#fback{
+    background: #FFCD9E;
+    width: 1518px;
+    height: 600px;
+    margin: 0;
+    padding: 100px;
+    
+}
+#fhead{
+    /* margin-top: 100px;
+    margin-left: 100px; */
+    width: 550px;
+    height:120px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+#fhead2{
+    width: 500px;
+    height: 100px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+#fhead3{
+    margin-top: 10px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 32px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+
+}
+#cssemail{
+    margin-top: 10px;
+    height: 60px;
+    width: 250px;
+    border: black;
+    border-style: solid;
+    border-width: 3px;
+    font-style:oblique;
+    font-weight: bolder;
+    font-size: 15px;
+}
+#butt{
+    height: 60px;
+    width: 200px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 15px;
+    background-color: burlywood;
+}
+#spam{
+    margin-top: 20px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 200;
+    
+    line-height: 32px;
+    letter-spacing: 0em;
+}
+#sback{
+    background-color: black;
+    width: 1518px;
+    height: 300px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 200px;
+    position: relative;
+}
+#im{
+    position: absolute;
+    top: 40px;
+    right: 100px;
+}
+#dtext{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+
+}
+#dtext2{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+}
+#dtext3{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+}
+#dtext4{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+   
+}
+#dtext5{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+}
+#io{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    position: absolute;
+    top: 50px;
+    right: 200px; 
+}
+#ind{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    position: absolute;
+    top: 90px;
+    right: 200px;
+}
+#linkedin{
+    position: absolute;
+    top: 150px;
+    right: 250px;
+}
+#insta{
+    position: absolute;
+    top: 150px;
+    right: 200px;
+}
+#hello{
+    position: absolute;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    top: 200px;
+    right: 200px;
+}
